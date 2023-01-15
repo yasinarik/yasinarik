@@ -5,7 +5,8 @@
 
 Visit https://yasinarik.com to see my latest projects that are built with
 - Flutter
-- Hasura
 - PostgresQL
-- Nodejs
+- Supabase
+- Hasura
 - Firebase
+- Nodejs
